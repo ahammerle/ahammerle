@@ -1,6 +1,8 @@
 ## Hey there 
 
-I'm Amelia, an Electrical Engineering student. This page is in progress, but will showcase some of my work when complete. 
+I'm Amelia, an Electrical Engineering student.
+
+This page is in progress, but will showcase some of my work when complete. 
 
 
 <!--
