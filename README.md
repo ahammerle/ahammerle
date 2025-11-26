@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 
+
+I'm Amelia, an Electrical Engineering student. This page is in progress, but will showcase some of my work when complete. 
+
 
 <!--
 **ahammerle/ahammerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
