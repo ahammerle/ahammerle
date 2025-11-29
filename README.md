@@ -1,8 +1,10 @@
 ## Hey there 
 
-I'm Amelia, an Electrical Engineering student.
+I'm Amelia, an Electrical Engineering student in my Junior year.
 
-This page is in progress, but will showcase some of my work when complete. 
+Here you can check out some of my current and past projects. I am interested in signal processing, electronics hardware, and RF/communications. Outside of my studies I enjoy rock climbing, biking, and birding.
+    
+*Please note that this page is in progress* 
 
 
 <!--
