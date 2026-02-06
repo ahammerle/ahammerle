@@ -2,7 +2,7 @@
 
 I'm Amelia, an Electrical Engineering student in my Junior year.
 
-Here you can check out some of my current and past projects. I am interested in signal processing, electronics hardware, and RF/communications. Outside of my studies I enjoy rock climbing, biking, and birding.
+Here you can check out some of my current and past projects. I am interested in RF/communications, electronics hardware, and signal processing. Outside of my studies I enjoy rock climbing, biking, and birding.
     
 *Please note that this page is in progress* 
 
